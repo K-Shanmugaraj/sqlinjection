@@ -1,13 +1,9 @@
-```
-NAME : Abheek A
-REG NO : 212224100001
-DEPT : Cyber
-```
-
-
-
 # Metasploit
 Exploiting SQL Injection vulnerability
+
+### NAME : Shanmuga Raj.K
+### REG NO : 212223040192
+
 
 # AIM:
 To exploit SQL Injection vulnerability using Multidae web application in Metasploitable2
